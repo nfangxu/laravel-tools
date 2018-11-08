@@ -1,0 +1,24 @@
+{
+    "name": "nfangxu/laravel-tools",
+    "description": "some functions for laravel",
+    "keywords": ["laravel","composer","tools"],
+    "homepage": "https://github.com/nfangxu/laravel-tools",
+    "type": "library",
+    "version" : "v1.0.0",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "LaravelFangxu\\": "src/"
+        }
+    },
+    "require" : {
+        
+    },
+    "authors": [
+        {
+          "name": "nfangxu",
+          "email": "nfangxu@gmail.com",
+          "homepage": "https://nfangxu.com"
+        }
+    ]
+}
