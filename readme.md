@@ -24,7 +24,7 @@
 | :----: | :----: | :----: |
 | v | string | Y |
 | aes | string | N |
-| method | int | N |
+| method | string | N |
 
 ### passwordDecode()
 - param
@@ -33,4 +33,4 @@
 | :----: | :----: | :----: |
 | v | string | Y |
 | aes | string | N |
-| method | int | N |
+| method | string | N |
